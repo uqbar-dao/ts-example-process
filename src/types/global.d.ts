@@ -1,0 +1,8 @@
+declare module "print-to-terminal"
+declare module "get-payload"
+declare module "receive"
+declare module "send-request"
+declare module "send-requests"
+declare module "send-response"
+declare module "send-and-await-response"
+declare module "save-capabilities"

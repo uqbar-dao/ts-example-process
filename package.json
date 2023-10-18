@@ -1,0 +1,20 @@
+{
+  "name": "ts-uqbar-example",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js && node componentize.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bytecodealliance/componentize-js": "0.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.7.13",
+    "esbuild": "^0.19.2",
+    "typescript": "^4.9.5"
+  }
+}
